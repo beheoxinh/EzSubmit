@@ -1,0 +1,9 @@
+php_value upload_max_filesize 50M
+
+php_value post_max_size 50M
+
+#Đặt trang mặc định (index)
+
+DirectoryIndex index.php?frame=product&cat=167
+
+
